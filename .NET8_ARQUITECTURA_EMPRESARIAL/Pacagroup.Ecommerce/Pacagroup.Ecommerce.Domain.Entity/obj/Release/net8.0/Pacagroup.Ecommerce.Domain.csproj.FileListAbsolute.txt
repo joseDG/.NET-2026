@@ -1,0 +1,11 @@
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Release\net8.0\Pacagroup.Ecommerce.Domain.deps.json
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Release\net8.0\Pacagroup.Ecommerce.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Release\net8.0\Pacagroup.Ecommerce.Domain.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\net8.0\Pacagroup.Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\net8.0\Pacagroup.Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\net8.0\Pacagroup.Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\net8.0\Pacagroup.Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\net8.0\Pacagroup.Ecommerce.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\net8.0\refint\Pacagroup.Ecommerce.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\net8.0\Pacagroup.Ecommerce.Domain.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\net8.0\ref\Pacagroup.Ecommerce.Domain.dll

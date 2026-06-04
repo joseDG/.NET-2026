@@ -1,0 +1,26 @@
+﻿using BibliotecaAPI.Entidades;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+
+namespace BibliotecaAPI.Datos
+{
+    public class ApplicationDbContext : IdentityDbContext<Usuario> //sirve para todo lo que es los roles de usuario
+    {
+        public ApplicationDbContext(DbContextOptions options) : base(options)
+        {
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            //modelBuilder.Entity<Autor>().Property(x => x.Nombre).HasMaxLength(150);
+        }
+
+        public DbSet<Autor> Autores { get; set; }
+        public DbSet<Libro> Libros { get; set; }
+        public DbSet<Comentario> Comentarios { get; set; }
+        public DbSet<AutorLibro> AutorLibros { get; set; }
+
+    }
+}

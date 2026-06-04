@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.deps.json
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\Pacagrou.0B343A43.Up2Date
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\refint\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net8.0\ref\Pacagroup.Ecommerce.Transversal.Logging.dll

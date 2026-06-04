@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.deps.json
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Release\net8.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Release\net8.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\Pacagrou.D96E9D37.Up2Date
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\refint\Pacagroup.Ecommerce.Application.Validator.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\Pacagroup.Ecommerce.Application.Validator.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Release\net8.0\ref\Pacagroup.Ecommerce.Application.Validator.dll

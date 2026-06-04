@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\bin\Debug\net9.0\App03.exe
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\bin\Debug\net9.0\App03.deps.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\bin\Debug\net9.0\App03.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\bin\Debug\net9.0\App03.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\bin\Debug\net9.0\App03.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\App03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\App03.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\App03.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\App03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\App03.sourcelink.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\App03.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\refint\App03.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\App03.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\App03.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App03\App03\App03\obj\Debug\net9.0\ref\App03.dll

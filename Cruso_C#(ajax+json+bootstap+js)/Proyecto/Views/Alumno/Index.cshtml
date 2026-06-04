@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<link rel="stylesheet" href="~/css/datatables.css" asp-append-version="true" />
+
+<h2>Alumno</h2>
+<label>Seleccione Sexo:</label>
+<select id="cboSexo" name="IdSexo"></select>
+
+<input type="button" id="btnBuscar" value="Buscar" class="btn btn-success"/>
+<input type="button" id="btnLimpiar" value="Limpiar" class="btn btn-primary"/>
+
+<div id="tabla"></div>
+
+<script src="~/js/jquery-3.7.1.min.js" asp-append-version="true"></script>
+<script src="~/js/Alumno.js" asp-append-version="true"></script>
+<script src="~/js/datatables.min.js" asp-append-version="true"></script>

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\CursoCsharp\\App03\\App03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96294610-6D15-418A-9D21-3514D27FB273}|App03\\App03.csproj|c:\\users\\usuario itc\\documents\\.net cursos\\cursocsharp\\app03\\app03\\app03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294610-6D15-418A-9D21-3514D27FB273}|App03\\App03.csproj|solutionrelative:app03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96294610-6D15-418A-9D21-3514D27FB273}|App03\\App03.csproj|c:\\users\\usuario itc\\documents\\.net cursos\\cursocsharp\\app03\\app03\\app03\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294610-6D15-418A-9D21-3514D27FB273}|App03\\App03.csproj|solutionrelative:app03\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96294610-6D15-418A-9D21-3514D27FB273}|App03\\App03.csproj|c:\\users\\usuario itc\\documents\\.net cursos\\cursocsharp\\app03\\app03\\app03\\mieventoargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96294610-6D15-418A-9D21-3514D27FB273}|App03\\App03.csproj|solutionrelative:app03\\mieventoargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\CursoCsharp\\App03\\App03\\App03\\EventPublisher.cs",
+              "RelativeDocumentMoniker": "App03\\EventPublisher.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\CursoCsharp\\App03\\App03\\App03\\EventPublisher.cs",
+              "RelativeToolTip": "App03\\EventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:45:36.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiEventoArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\CursoCsharp\\App03\\App03\\App03\\MiEventoArgs.cs",
+              "RelativeDocumentMoniker": "App03\\MiEventoArgs.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\CursoCsharp\\App03\\App03\\App03\\MiEventoArgs.cs",
+              "RelativeToolTip": "App03\\MiEventoArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:44:17.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\CursoCsharp\\App03\\App03\\App03\\Program.cs",
+              "RelativeDocumentMoniker": "App03\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\CursoCsharp\\App03\\App03\\App03\\Program.cs",
+              "RelativeToolTip": "App03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:53:42.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

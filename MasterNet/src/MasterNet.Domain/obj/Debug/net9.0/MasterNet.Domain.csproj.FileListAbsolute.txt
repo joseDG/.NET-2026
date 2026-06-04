@@ -1,0 +1,12 @@
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\bin\Debug\net9.0\MasterNet.Domain.deps.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\bin\Debug\net9.0\MasterNet.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\bin\Debug\net9.0\MasterNet.Domain.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\MasterNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\MasterNet.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\MasterNet.Domain.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\MasterNet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\MasterNet.Domain.sourcelink.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\MasterNet.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\refint\MasterNet.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\MasterNet.Domain.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\MasterNet\src\MasterNet.Domain\obj\Debug\net9.0\ref\MasterNet.Domain.dll

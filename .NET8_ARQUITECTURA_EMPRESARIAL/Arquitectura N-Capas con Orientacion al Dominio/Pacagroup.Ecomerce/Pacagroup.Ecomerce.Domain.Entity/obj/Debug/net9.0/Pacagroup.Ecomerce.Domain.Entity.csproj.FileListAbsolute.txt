@@ -1,0 +1,1 @@
+C:\Users\Usuario iTC\Documents\ArquitecturaAplicacionesEmpresariales .NET9\Arquitectura N-Capas con Orientacion al Dominio\Pacagroup.Ecomerce\Pacagroup.Ecomerce.Domain.Entity\obj\Debug\net9.0\Pacagroup.Ecomerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig

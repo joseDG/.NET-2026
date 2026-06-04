@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W272/ebDMmo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\Pacagroup.Ecomerce.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

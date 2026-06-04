@@ -1,0 +1,11 @@
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.deps.json
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net8.0\refint\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net8.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\Usuario iTC\Documents\.NET8_ARQUITECTURA_EMPRESARIAL\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net8.0\ref\Pacagroup.Ecommerce.Application.DTO.dll

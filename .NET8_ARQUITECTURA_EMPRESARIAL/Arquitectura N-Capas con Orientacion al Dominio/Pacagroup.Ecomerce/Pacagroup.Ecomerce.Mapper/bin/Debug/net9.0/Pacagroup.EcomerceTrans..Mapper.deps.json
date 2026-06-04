@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pacagroup.EcomerceTrans..Mapper/1.0.0": {
+        "runtime": {
+          "Pacagroup.EcomerceTrans..Mapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacagroup.EcomerceTrans..Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

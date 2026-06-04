@@ -1,0 +1,3 @@
+C:\Users\Usuario iTC\Documents\ArquitecturaAplicacionesEmpresariales .NET9\Arquitectura N-Capas con Orientacion al Dominio\Pacagroup.Ecomerce\Pacagroup.Ecomerce.WebApi\obj\Debug\net9.0\Pacagroup.Ecomerce.Services.WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\ArquitecturaAplicacionesEmpresariales .NET9\Arquitectura N-Capas con Orientacion al Dominio\Pacagroup.Ecomerce\Pacagroup.Ecomerce.WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Usuario iTC\Documents\ArquitecturaAplicacionesEmpresariales .NET9\Arquitectura N-Capas con Orientacion al Dominio\Pacagroup.Ecomerce\Pacagroup.Ecomerce.WebApi\obj\Debug\net9.0\Pacagroup.Ecomerce.Services.WebApi.GeneratedMSBuildEditorConfig.editorconfig

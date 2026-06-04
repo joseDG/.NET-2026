@@ -1,0 +1,248 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Microsoft.Extensions.DependencyInjection/9.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6"
+        },
+        "compile": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "Pacagroup.Ecomerce.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecomerce.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecomerce.Domain.Entity.dll": {}
+        }
+      },
+      "Pacagroup.Ecomerce.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Pacagroup.Ecomerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecomerce.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecomerce.Domain.Interface.dll": {}
+        }
+      },
+      "Pacagroup.Ecomerce.Infra.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Pacagroup.Ecomerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecomerce.Infra.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecomerce.Infra.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection/9.0.6": {
+      "sha512": "vS65HMo5RS10DD543fknsyVDxihMcVxVn3/hNaILgBxWYnOLxWIeCIO9X0QFuCvPRNjClvXe9Aj8KaQNx7vFkQ==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection/9.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/net9.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net9.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
+        "microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.6": {
+      "sha512": "0Zn6nR/6g+90MxskZyOOMPQvnPnrrGu6bytPwkV+azDcTtCSuQ1+GJUrg8Klmnrjk1i6zMpw2lXijl+tw7Q3kA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Pacagroup.Ecomerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecomerce.Domain.Entity/Pacagroup.Ecomerce.Domain.Entity.csproj",
+      "msbuildProject": "../Pacagroup.Ecomerce.Domain.Entity/Pacagroup.Ecomerce.Domain.Entity.csproj"
+    },
+    "Pacagroup.Ecomerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecomerce.Domain.Interface/Pacagroup.Ecomerce.Domain.Interface.csproj",
+      "msbuildProject": "../Pacagroup.Ecomerce.Domain.Interface/Pacagroup.Ecomerce.Domain.Interface.csproj"
+    },
+    "Pacagroup.Ecomerce.Infra.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecomerce.Interfaces/Pacagroup.Ecomerce.Infra.Interfaces.csproj",
+      "msbuildProject": "../Pacagroup.Ecomerce.Interfaces/Pacagroup.Ecomerce.Infra.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Microsoft.Extensions.DependencyInjection >= 9.0.6",
+      "Pacagroup.Ecomerce.Domain.Entity >= 1.0.0",
+      "Pacagroup.Ecomerce.Domain.Interface >= 1.0.0",
+      "Pacagroup.Ecomerce.Infra.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\Pacagroup.Ecomerce.Domain.Core.csproj",
+      "projectName": "Pacagroup.Ecomerce.Domain.Core",
+      "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\Pacagroup.Ecomerce.Domain.Core.csproj",
+      "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj"
+            },
+            "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj": {
+              "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj"
+            },
+            "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[9.0.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

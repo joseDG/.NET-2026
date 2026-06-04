@@ -1,0 +1,840 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.WebApi\\Pacagroup.Ecomerce.Services.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj",
+        "projectName": "Pacagroup.Ecomerce.Apli.DTO",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.Main\\Pacagroup.Ecomerce.Apli.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.Main\\Pacagroup.Ecomerce.Apli.Main.csproj",
+        "projectName": "Pacagroup.Ecomerce.Apli.Main",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.Main\\Pacagroup.Ecomerce.Apli.Main.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Common\\Pacagroup.Ecomerce.Trans.Common.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Common\\Pacagroup.Ecomerce.Trans.Common.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interface\\Pacagroup.Ecomerce.Apli.Interface.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interface\\Pacagroup.Ecomerce.Apli.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Common\\Pacagroup.Ecomerce.Trans.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Common\\Pacagroup.Ecomerce.Trans.Common.csproj",
+        "projectName": "Pacagroup.Ecomerce.Trans.Common",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Common\\Pacagroup.Ecomerce.Trans.Common.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.301, 9.0.301]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Data\\Pacagroup.Ecomerce.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Data\\Pacagroup.Ecomerce.Infra.Data.csproj",
+        "projectName": "Pacagroup.Ecomerce.Infra.Data",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Data\\Pacagroup.Ecomerce.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.301, 9.0.301]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\Pacagroup.Ecomerce.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\Pacagroup.Ecomerce.Domain.Core.csproj",
+        "projectName": "Pacagroup.Ecomerce.Domain.Core",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\Pacagroup.Ecomerce.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj",
+        "projectName": "Pacagroup.Ecomerce.Domain.Entity",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj",
+        "projectName": "Pacagroup.Ecomerce.Domain.Interface",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\Pacagroup.Ecomerce.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj",
+        "projectName": "Pacagroup.Ecomerce.Infra.Interfaces",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Entity\\Pacagroup.Ecomerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interface\\Pacagroup.Ecomerce.Apli.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interface\\Pacagroup.Ecomerce.Apli.Interface.csproj",
+        "projectName": "Pacagroup.Ecomerce.Apli.Interface",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interface\\Pacagroup.Ecomerce.Apli.Interface.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Common\\Pacagroup.Ecomerce.Trans.Common.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Common\\Pacagroup.Ecomerce.Trans.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Repository\\Pacagroup.Ecomerce.Infra.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Repository\\Pacagroup.Ecomerce.Infra.Repository.csproj",
+        "projectName": "Pacagroup.Ecomerce.Infra.Repository",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Repository\\Pacagroup.Ecomerce.Infra.Repository.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Data\\Pacagroup.Ecomerce.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Data\\Pacagroup.Ecomerce.Infra.Data.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interfaces\\Pacagroup.Ecomerce.Infra.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.WebApi\\Pacagroup.Ecomerce.Services.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.WebApi\\Pacagroup.Ecomerce.Services.WebApi.csproj",
+        "projectName": "Pacagroup.Ecomerce.Services.WebApi",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.WebApi\\Pacagroup.Ecomerce.Services.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario iTC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.DTO\\Pacagroup.Ecomerce.Apli.DTO.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.Main\\Pacagroup.Ecomerce.Apli.Main.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Application.Main\\Pacagroup.Ecomerce.Apli.Main.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\Pacagroup.Ecomerce.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Domain.Core\\Pacagroup.Ecomerce.Domain.Core.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interface\\Pacagroup.Ecomerce.Apli.Interface.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Interface\\Pacagroup.Ecomerce.Apli.Interface.csproj"
+              },
+              "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Repository\\Pacagroup.Ecomerce.Infra.Repository.csproj": {
+                "projectPath": "C:\\Users\\Usuario iTC\\Documents\\ArquitecturaAplicacionesEmpresariales .NET9\\Arquitectura N-Capas con Orientacion al Dominio\\Pacagroup.Ecomerce\\Pacagroup.Ecomerce.Repository\\Pacagroup.Ecomerce.Infra.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

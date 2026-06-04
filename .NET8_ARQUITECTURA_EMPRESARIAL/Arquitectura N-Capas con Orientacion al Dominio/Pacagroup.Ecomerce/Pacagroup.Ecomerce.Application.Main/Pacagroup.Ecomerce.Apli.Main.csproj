@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="15.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Application.DTO\Pacagroup.Ecomerce.Apli.DTO.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Common\Pacagroup.Ecomerce.Trans.Common.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Domain.Entity\Pacagroup.Ecomerce.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Domain.Interface\Pacagroup.Ecomerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Interface\Pacagroup.Ecomerce.Apli.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

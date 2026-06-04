@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Application.DTO\Pacagroup.Ecomerce.Apli.DTO.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Application.Main\Pacagroup.Ecomerce.Apli.Main.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Domain.Core\Pacagroup.Ecomerce.Domain.Core.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Interface\Pacagroup.Ecomerce.Apli.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecomerce.Repository\Pacagroup.Ecomerce.Infra.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

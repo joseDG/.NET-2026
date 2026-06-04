@@ -1,0 +1,2 @@
+C:\Users\Usuario iTC\Documents\ArquitecturaAplicacionesEmpresariales .NET9\Arquitectura N-Capas con Orientacion al Dominio\Pacagroup.Ecomerce\Pacagroup.Ecomerce.Application.Main\obj\Debug\net9.0\Pacagroup.Ecomerce.Apli.Main.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\ArquitecturaAplicacionesEmpresariales .NET9\Arquitectura N-Capas con Orientacion al Dominio\Pacagroup.Ecomerce\Pacagroup.Ecomerce.Application.Main\obj\Debug\net9.0\Pacagroup.Ecomerce.Apli.Main.GeneratedMSBuildEditorConfig.editorconfig

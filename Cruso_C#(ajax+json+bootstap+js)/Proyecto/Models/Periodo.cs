@@ -1,0 +1,11 @@
+﻿namespace Proyecto.Models
+{
+    public class Periodo
+    {
+        public int IIDPERIODO { get; set; }
+        public string? NOMBRE { get; set; }
+        public DateTime FECHAINICIO { get; set; }
+        public DateTime FECHAFIN { get; set; }
+        public int BHABILITADO { get; set; }
+    }
+}

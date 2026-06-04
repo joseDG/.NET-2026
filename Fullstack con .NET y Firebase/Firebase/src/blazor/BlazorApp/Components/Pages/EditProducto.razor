@@ -1,0 +1,96 @@
+﻿@page "/producto"
+@page "/producto/{id:int}"
+@rendermode InteractiveServer
+
+@using BlazorApp.Models
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+@if (Id is null)
+{
+    <PageTitle>Crear nuevo producto</PageTitle>
+    <h3>Crear nuevo producto</h3>
+}
+else
+{
+    <PageTitle>Editar @producto.Nombre</PageTitle>
+    <h3>Editar Producto</h3>
+}
+
+<EditForm Model="@producto" OnValidSubmit="HandleSubmit" FormName="productoForm">
+    
+
+    <div>
+        <label for="nombre">Nombre</label>
+        <InputText id="nombre" class="form-control" @bind-Value="producto.Nombre" />
+    </div>
+
+    <div>
+        <label for="descripcion">Descripción</label>
+        <InputText id="descripcion" class="form-control" @bind-Value="producto.Descripcion" />
+    </div>
+
+    <div>
+        <label for="precio">Precio</label>
+        <InputNumber id="precio" class="form-control" @bind-Value="producto.Precio" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    
+    @if (Id is not null)
+    {
+        <button type="button" class="btn btn-danger" @onclick="EliminarProducto">Eliminar</button>
+    }
+</EditForm>
+
+@code {
+    [Parameter]
+    public int? Id { get; set; }
+
+    private Producto producto = new();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (Id is not null)
+        {
+            var resultado = await Http.GetFromJsonAsync<Producto>($"/api/producto/{Id}");
+
+            if (resultado is not null)
+            {
+                producto = resultado;
+            }
+        }
+    }
+
+    private async Task HandleSubmit()
+    {
+        HttpResponseMessage response;
+
+        if (Id is null)
+        {
+            response = await Http.PostAsJsonAsync("/api/producto", producto);
+        }
+        else
+        {
+            producto.Id = Id.Value;
+
+            response = await Http.PutAsJsonAsync($"/api/producto", producto);
+        }
+
+        if (response.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo("/productos");
+        }
+        else
+        {
+            var error = await response.Content.ReadAsStringAsync();
+            Console.WriteLine(error);
+        }
+    }
+
+    async Task EliminarProducto()
+    {
+        await Http.DeleteAsync($"/api/producto/{Id}");
+        NavigationManager.NavigateTo("/productos");
+    }
+}

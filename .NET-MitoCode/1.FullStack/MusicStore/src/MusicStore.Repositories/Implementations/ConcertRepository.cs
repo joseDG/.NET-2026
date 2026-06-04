@@ -1,0 +1,96 @@
+﻿using Microsoft.EntityFrameworkCore;
+using MusicStore.Entities;
+using MusicStore.Entities.Info;
+using MusicStore.Persistence;
+using MusicStore.Repositories.Abstractions;
+
+namespace MusicStore.Repositories.Implementations;
+
+public class ConcertRepository : RepositoryBase<Concert>, IConcertRepository
+{
+    public ConcertRepository(ApplicationDbContext context) : base(context)
+    {
+    }
+
+    public override async Task<ICollection<Concert>> GetAsync()
+    {
+        //eager loading
+        return await context.Set<Concert>()
+            .Include(x => x.Genre)
+            .AsNoTracking()
+            .ToListAsync();
+    }
+
+    public async Task<Concert?> GetAsyncById(int id)
+    {
+        return await context.Set<Concert>()
+            .Include(x => x.Genre)
+            .AsNoTracking()
+            .FirstOrDefaultAsync(x => x.Id == id);
+    }
+
+
+    public async Task<ICollection<ConcertInfo>> GetAsync(string? title)
+    {
+        //eager loading approach optimizado 
+        //return await context.Set<Concert>()
+        //    .Include(x => x.Genre)
+        //    .Where(x => x.Title.Contains(title ?? string.Empty))
+        //    .AsNoTracking()
+        //    .Select(x => new ConcertInfo
+        //    {
+        //        Id = x.Id,
+        //        Title = x.Title,
+        //        Description = x.Description,
+        //        Place = x.Place,
+        //        UnitPrice = x.UnitPrice,
+        //        GenreId = x.GenreId,
+        //        Genre = x.Genre.Name,
+        //        DateEvent = x.DateEvent.ToString("yyyy-MM-dd"),
+        //        TimeEvent = x.DateEvent.ToString("HH:mm"),
+        //        imageUrl = x.imageUrl,
+        //        TicketsQuantity = x.TicketsQuantity,
+        //        Finalized = x.Finalized,
+        //        Status = x.Finalized ? "Finalizado" : "Disponible"
+        //    })
+        //    .ToListAsync();
+
+        //lazy loading approach
+        return await context.Set<Concert>()
+            .Where(x => x.Title.Contains(title ?? string.Empty))
+            .IgnoreQueryFilters()
+            .AsNoTracking()
+            .Select(x => new ConcertInfo
+            {
+                Id = x.Id,
+                Title = x.Title,
+                Description = x.Description,
+                Place = x.Place,
+                UnitPrice = x.UnitPrice,
+                Genre = x.Genre.Name,
+                GenreId = x.GenreId,
+                DateEvent = x.DateEvent.ToString("yyyy-MM-dd"),
+                TimeEvent = x.DateEvent.ToString("HH:mm"),
+                imageUrl = x.imageUrl,
+                TicketsQuantity = x.TicketsQuantity,
+                Finalized = x.Finalized,
+                Status = x.Finalized ? "Activo" : "Inactivo"
+            })
+            .ToListAsync();
+
+        //llamando un Stored Procedure
+        //var query = context.Set<ConcertInfo>().FromSqlRaw("usp_ListConcerts {0}", title ?? string.Empty);
+        //return await query.ToListAsync();
+    }
+
+    public async Task FinalizeAsync(int id)
+    {
+        var entity = await GetAsync(id);
+        if (entity is not null)
+        {
+            entity.Finalized = true;
+            await UpdateAsync();
+        }
+    }
+
+}

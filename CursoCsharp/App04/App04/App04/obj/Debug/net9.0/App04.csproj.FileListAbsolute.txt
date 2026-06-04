@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\bin\Debug\net9.0\App04.exe
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\bin\Debug\net9.0\App04.deps.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\bin\Debug\net9.0\App04.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\bin\Debug\net9.0\App04.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\bin\Debug\net9.0\App04.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\App04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\App04.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\App04.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\App04.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\App04.sourcelink.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\App04.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\refint\App04.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\App04.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\App04.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\CursoCsharp\App04\App04\App04\obj\Debug\net9.0\ref\App04.dll
