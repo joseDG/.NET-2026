@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\bin\Debug\net9.0\Strategy.exe
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\bin\Debug\net9.0\Strategy.deps.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\bin\Debug\net9.0\Strategy.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\bin\Debug\net9.0\Strategy.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\bin\Debug\net9.0\Strategy.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\Strategy.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\Strategy.sourcelink.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\Strategy.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\refint\Strategy.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\Strategy.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\Strategy.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\Strategy\obj\Debug\net9.0\ref\Strategy.dll

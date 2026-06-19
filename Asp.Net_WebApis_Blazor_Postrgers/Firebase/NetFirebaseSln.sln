@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{620235EE-A26
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFirebase.Api", "src\Api\NetFirebase.Api.csproj", "{BC8A3557-BD05-422B-AFF8-29D03A744D9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazor", "src\blazor\blazor.csproj", "{376D1285-029D-419C-9401-48B819053C57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +22,13 @@ Global
 		{BC8A3557-BD05-422B-AFF8-29D03A744D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC8A3557-BD05-422B-AFF8-29D03A744D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC8A3557-BD05-422B-AFF8-29D03A744D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376D1285-029D-419C-9401-48B819053C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376D1285-029D-419C-9401-48B819053C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376D1285-029D-419C-9401-48B819053C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376D1285-029D-419C-9401-48B819053C57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BC8A3557-BD05-422B-AFF8-29D03A744D9D} = {620235EE-A26D-40B0-B5EF-EF272FA1E9BD}
+		{376D1285-029D-419C-9401-48B819053C57} = {620235EE-A26D-40B0-B5EF-EF272FA1E9BD}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,75 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = blazor
+build_property.RootNamespace = blazor
+build_property.ProjectDir = C:\Users\Usuario iTC\Documents\.NET Cursos\Asp.Net_WebApis_Blazor_Postrgers\Firebase\src\blazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Usuario iTC\Documents\.NET Cursos\Asp.Net_WebApis_Blazor_Postrgers\Firebase\src\blazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Layout/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Pages/EditProducto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFByb2R1Y3RvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Pages/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Pages/Productos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-le58cdx4rb
+
+[C:/Users/Usuario iTC/Documents/.NET Cursos/Asp.Net_WebApis_Blazor_Postrgers/Firebase/src/blazor/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8oshwvmtx2

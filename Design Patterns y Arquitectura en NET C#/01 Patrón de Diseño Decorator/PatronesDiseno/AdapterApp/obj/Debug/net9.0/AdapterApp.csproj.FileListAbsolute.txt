@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\bin\Debug\net9.0\AdapterApp.exe
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\bin\Debug\net9.0\AdapterApp.deps.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\bin\Debug\net9.0\AdapterApp.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\bin\Debug\net9.0\AdapterApp.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\bin\Debug\net9.0\AdapterApp.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\AdapterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\AdapterApp.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\AdapterApp.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\AdapterApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\AdapterApp.sourcelink.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\AdapterApp.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\refint\AdapterApp.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\AdapterApp.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\AdapterApp.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\Design Patterns y Arquitectura en NET C#\01 Patrón de Diseño Decorator\PatronesDiseno\AdapterApp\obj\Debug\net9.0\ref\AdapterApp.dll
