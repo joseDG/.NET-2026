@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\Modular Monoliths in .NET - Fundamentos\\CinemaParadise\\app\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{313FEE3C-4C02-42BB-ACB0-99C2E20B8438}|Solution Items{313FEE3C-4C02-42BB-ACB0-99C2E20B8438}|C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\Modular Monoliths in .NET - Fundamentos\\CinemaParadise\\app\\backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{313FEE3C-4C02-42BB-ACB0-99C2E20B8438}|Solution Items{313FEE3C-4C02-42BB-ACB0-99C2E20B8438}|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\Modular Monoliths in .NET - Fundamentos\\CinemaParadise\\app\\backend\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\Modular Monoliths in .NET - Fundamentos\\CinemaParadise\\app\\backend\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-20T00:37:21.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

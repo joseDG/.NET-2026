@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "I42c6CrOKzQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario iTC\\Documents\\.NET Cursos\\Modular Monoliths in .NET - Fundamentos\\CinemaParadise\\app\\backend\\Api\\src\\CP.Portal.Api\\CP.Portal.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\fastendpoints\\7.1.1\\fastendpoints.7.1.1.nupkg.sha512",
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\fastendpoints.attributes\\7.1.1\\fastendpoints.attributes.7.1.1.nupkg.sha512",
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\fastendpoints.messaging.core\\7.1.1\\fastendpoints.messaging.core.7.1.1.nupkg.sha512",
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\Usuario iTC\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

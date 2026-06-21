@@ -1,0 +1,74 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "CP.Portal.Api | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5000"
+    }
+  ],
+  "paths": {
+    "/api/movies": {
+      "get": {
+        "tags": [
+          "CP.Portal.Api"
+        ],
+        "operationId": "CPPortalMoviesModuleListMoviesEndpoint",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ListMoviesResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ListMoviesResponse": {
+        "type": "object",
+        "properties": {
+          "movies": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MovieResponse"
+            }
+          }
+        }
+      },
+      "MovieResponse": {
+        "required": [
+          "id",
+          "title",
+          "description"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "CP.Portal.Api"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\bin\Debug\net10.0\CP.Portal.Movies.Module.deps.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\bin\Debug\net10.0\CP.Portal.Movies.Module.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\bin\Debug\net10.0\CP.Portal.Movies.Module.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\CP.Portal.Movies.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\CP.Portal.Movies.Module.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\CP.Portal.Movies.Module.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\CP.Portal.Movies.Module.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\CP.Portal.Movies.Module.sourcelink.json
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\CP.Portal.Movies.Module.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\refint\CP.Portal.Movies.Module.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\CP.Portal.Movies.Module.pdb
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\ref\CP.Portal.Movies.Module.dll
+C:\Users\Usuario iTC\Documents\.NET Cursos\Modular Monoliths in .NET - Fundamentos\CinemaParadise\app\backend\Movies.Module\src\CP.Portal.Movies.Module\obj\Debug\net10.0\CP.Portal.Movies.Module.csproj.AssemblyReference.cache
