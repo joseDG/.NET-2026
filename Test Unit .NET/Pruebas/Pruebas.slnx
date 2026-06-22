@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LibreriaPruebas/LibreriaPruebas.csproj" />
+  <Project Path="LibreriaPruebasMSTest/LibreriaPruebasMSTest.csproj" />
+  <Project Path="LibreriaPruebasNUnit/LibreriaPruebasNUnitTest.csproj" />
+</Solution>
